@@ -8,7 +8,7 @@ file_path = "auto_backdate_file.py"
 # Path to the Git repository
 repo_path = f"/Users/marciacripps/Documents/Github/backdate_github_squares/python_auto_backdate/"
 # Hard-code the start date
-start_date = datetime(2025, 11, 10)
+start_date = datetime(2026, 1, 1)
 commit_message = "marcia"
 
 # Function to alter the file by adding and then removing '#mcc\n'
